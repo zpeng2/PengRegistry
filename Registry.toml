@@ -4,4 +4,5 @@ repo = "https://github.com/zpeng2/PengRegistry.git"
 description = "My private registry"
 
 [packages]
+28c55fa3-83a0-4b31-a715-cd70eded8038 = { name = "Pda", path = "P/Pda" }
 3d574d9a-abb7-459e-9f3a-7c1fc26ee778 = { name = "BD", path = "B/BD" }
