@@ -1,0 +1,6 @@
+name = "PengRegistry"
+uuid = "71715689-66f7-47d3-a50f-e6352bfad766"
+repo = "https://github.com/zpeng2/PengRegistry.git"
+description = "My private registry"
+
+[packages]
